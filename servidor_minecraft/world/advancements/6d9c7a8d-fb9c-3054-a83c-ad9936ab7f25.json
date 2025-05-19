@@ -1,7 +1,8 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-05-19 05:09:12 +0000"
+      "minecraft:forest": "2025-05-19 21:20:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-19 21:29:27 +0000"
     },
     "done": false
   },

@@ -125,6 +125,7 @@ world-settings:
   default:
     disable-teleportation-suffocation-check: false
     delay-chunk-unloads-by: 10s
+    ender-dragons-death-always-places-dragon-egg: false
     piglins-guard-chests: true
     should-remove-dragon: false
     max-auto-save-chunks-per-tick: 24
@@ -229,7 +230,6 @@ world-settings:
       delay:
         min: 20
         max: 40
-    ender-dragons-death-always-places-dragon-egg: false
     lootables:
       auto-replenish: false
       restrict-player-reloot: true

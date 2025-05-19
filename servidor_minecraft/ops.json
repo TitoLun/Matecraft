@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "6d9c7a8d-fb9c-3054-a83c-ad9936ab7f25",
+    "name": "TitoLun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
